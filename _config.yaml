@@ -1,10 +1,10 @@
 # site properties and page defaults
 url: "https://leesbdegree.github.io"
 baseurl: "/sillygoofy"
-title: Lab Website Template
-subtitle: by the Greene Lab
+title: Camacho Lab Website
+subtitle: ---
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-header: images/background.jpg
+header: images/GHOSTBUSTERS.jpg
 footer: images/background.jpg
 proofer: false
 
