@@ -3,6 +3,7 @@ name: Victoria Lemus
 image: images/lemus-victoria.jpg
 role: phd
 group: member
+order: 3
 ---
 
 Victoria is a PhD student in the Developmental and Regenerative Biology program, where she explores the relationship
