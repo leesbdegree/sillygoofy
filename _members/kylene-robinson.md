@@ -3,6 +3,7 @@ name: Kylene Robinson
 image: images/robinson-lee.jpeg
 role: undergrad
 group: member
+order: 4
 ---
 
 Kylene is a Statistics and Data Science major with a Minor in Mathematics at UTSA. 
