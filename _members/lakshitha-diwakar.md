@@ -1,6 +1,6 @@
 ---
 name: Lakshitha Diwakar
-image: images/diwakar-lakshitha.jpeg
+image: images/diwakar-lakshitha.jpg
 role: Undergraduate Student
 group: member
 ---
