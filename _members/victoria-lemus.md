@@ -1,7 +1,7 @@
 ---
 name: Victoria Lemus
 image: images/lemus-victoria.jpg
-role: PhD Candidate
+role: phd
 group: member
 ---
 
