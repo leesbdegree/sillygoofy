@@ -1,7 +1,7 @@
 ---
 name: Erick Lima
 image: images/lima-erick.jpeg
-role: Undergraduate Student
+role: undergrad
 group: member
 ---
 
