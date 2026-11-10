@@ -3,6 +3,7 @@ name: Joseph Ramos
 image: images/ramos-joseph.jpg
 role: undergrad
 group: member
+order: 7
 ---
 
 Joseph is a sophmore majoring in Biomedical Engineering
