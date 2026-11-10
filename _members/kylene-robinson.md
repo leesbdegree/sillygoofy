@@ -1,7 +1,7 @@
 ---
 name: Kylene Robinson
 image: images/robinson-lee.jpeg
-role: Undergraduate Student
+role: undergrad
 group: member
 ---
 
