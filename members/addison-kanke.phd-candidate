@@ -42,21 +42,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Lab Website Template</title>
+<title>Addison Kanke | Lab Website Template</title>
 
 <link rel="icon" href="/sillygoofy/images/icon.png">
 
-<meta name="title" content="">
+<meta name="title" content="Addison Kanke">
 <meta name="description" content="by the Greene Lab. An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
 
-<meta property="og:title" content="">
+<meta property="og:title" content="Addison Kanke">
 <meta property="og:site_title" content="Lab Website Template">
 <meta property="og:description" content="by the Greene Lab. An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
 <meta property="og:url" content="https://leesbdegree.github.io/sillygoofy">
 <meta property="og:image" content="/sillygoofy/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="">
+<meta property="twitter:title" content="Addison Kanke">
 <meta property="twitter:description" content="by the Greene Lab. An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
 <meta property="twitter:url" content="https://leesbdegree.github.io/sillygoofy">
 <meta property="twitter:card" content="summary_large_image">
@@ -72,9 +72,9 @@
     
       "@type": "WebSite",
     
-    "name": "",
+    "name": "Addison Kanke",
     "description": "by the Greene Lab. An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.",
-    "headline": "",
+    "headline": "Addison Kanke",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/sillygoofy/images/icon.png" }
@@ -646,11 +646,15 @@
 >
   
 <div class="portrait-wrapper">
-  <a class="portrait" data-style="" aria-label="member link">
+  <a class="portrait" data-style="" aria-label="Addison Kanke">
     
 
-    <img src="" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/sillygoofy/images/fallback.svg'; this.onerror = null;" />
+    <img src="/sillygoofy/images/kanke-addison.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/sillygoofy/images/fallback.svg'; this.onerror = null;" />
 
+    
+      <span class="portrait-name">
+        Addison Kanke
+      </span>
     
 
     
@@ -673,7 +677,7 @@ development of photoreceptors and intrinsically photosensitive retinal ganglion 
 processing and investigates how their response to blue light can contribute to the development of 
 addictive behaviors. Outside of lab, Addison is passionate about engaging with the STEM community by 
 serving as Chair of Community Outreach for the non-profit organization STEMSTART Enrichment Inc., 
-and by sharing her journey as a scientist on social media to help foster fun and relatable spaces for science.
+and by sharing her journey as a scientist on social media to help foster fun and relatable spaces for science. | @itsaddisonella
 
 
 
@@ -681,8 +685,8 @@ and by sharing her journey as a scientist on social media to help foster fun and
 
 
 <p class="center">
-  <a href="/sillygoofy/research/?search=%22addison-kanke.phd-candidate%22%20">
-    Search for addison-kanke.phd-candidate's papers on the Research page
+  <a href="/sillygoofy/research/?search=%22Addison%20Kanke%22%20">
+    Search for Addison Kanke's papers on the Research page
   </a>
 </p>
 
@@ -690,8 +694,8 @@ and by sharing her journey as a scientist on social media to help foster fun and
 
 <!--
 <p class="center">
-  <a href="/sillygoofy/blog/?search=addison-kanke.phd-candidate">
-    See addison-kanke.phd-candidate's posts on the Blog page
+  <a href="/sillygoofy/blog/?search=Addison%20Kanke">
+    See Addison Kanke's posts on the Blog page
   </a>
 </p>
 -->
