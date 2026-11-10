@@ -1,7 +1,7 @@
 ---
 name: Joseph Ramos
 image: images/ramos-joseph.jpg
-role: Undergraduate Student
+role: undergrad
 group: member
 ---
 
