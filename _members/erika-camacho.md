@@ -2,9 +2,14 @@
 name: Dr. Erika Camacho
 image: images/camacho-erika.jpg
 role: principal-investigator
-affiliation: University of Texas at San Antonio, Arizona State University
+affiliation: University of Texas at San Antonio
 links:
   home-page: https://en.wikipedia.org/wiki/Erika_Camacho
+  curriculum vitae: https://sciences.utsa.edu/labs/erika-camacho/_documents/cv-camacho.pdf
+  faculty profile: https://sciences.utsa.edu/faculty/profiles/camacho-erika-tatiana.html
+  awards and recgonition: https://sciences.utsa.edu/labs/erika-camacho/awards.html
+  public engagement: https://sciences.utsa.edu/labs/erika-camacho/public.html
+  service: https://sciences.utsa.edu/labs/erika-camacho/service.html
   orcid: 0000-0001-8713-9213
 ---
 
