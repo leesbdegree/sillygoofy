@@ -1,6 +1,6 @@
 ---
 title: Addison Receives Her White Coat!
-image: images/Ghostbusters.JPG
+image: images/addison-whitecoat4.jpeg
 author: amber-ng
 date: 2026-05-14 12:00:00 -0500
 tags: student-spotlight, lab-news
