@@ -9,20 +9,11 @@ The Camacho Lab investigates the cellular and molecular mechanisms that drive re
 
 Our research focuses on understanding the interactions between photoreceptors and the retinal pigment epithelium (RPE), with particular interest in energy metabolism, redox homeostasis, and protective stress-response pathways. By examining how these processes change during disease and aging, we aim to identify mechanisms that promote photoreceptor survival and reveal new therapeutic strategies to preserve vision.
 
-Research Areas
+Our research areas include retinal degeneration and neuroprotection, photoreceptor and RPE metabolism, oxidative stress and redox regulation, retinal remodeling and disease progression, and immune responses in retinal disease. We also integrate computational and systems biology approaches to investigate the complex networks that govern retinal function, generating insights that can inform the development of therapies for blinding diseases and age-related vision loss.
 
-Retinal degeneration and neuroprotection
-Photoreceptor and RPE metabolism
-Oxidative stress and redox regulation
-Retinitis pigmentosa (RP) and age-related macular degeneration (AMD)
-Retinal remodeling and disease progression
-Immune responses in retinal disease
-Computational and systems biology approaches to vision research
+# {% include icon.html icon="fa-solid fa-microscope" %}Published-Works
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Discover publications from the Camacho Lab advancing retinal research and vision science through innovative experimental and computational approaches.
 
 {% include section.html %}
 
