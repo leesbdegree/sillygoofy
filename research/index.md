@@ -34,7 +34,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   authors="Erika T. Camacho, Danielle Brager, Ghizlane Elachouri, Tatyana Korneyeva, Géraldine Millet-Puel, José-Alain Sahel & Thierry Léveillard "
   publisher="Nature"
   date="2019-03-19"
-  link="(https://www.google.com/goto?url=CAESbwHEIkXX68a1MihfEBzO5K5TUzS5DQqo73b1QPoJaSlN1FIouARn5xdt15yVgY3Tvsb9Dbs0_8VXLEDCBpSlLQECQ3NFl0paSWXFkvC3vlT1PoiPUaRix25IHV2pQv2Wc9jwJIg3tc-QX6Arhr8LHQ&gsessionid=6sD51yxQikWG69kqz_3uLqtSI49547UX-xRfwRmR5g4uK2eVFYuNxw)"
+  link="[https://www.google.com/goto?url=CAESbwHEIkXX68a1MihfEBzO5K5TUzS5DQqo73b1QPoJaSlN1FIouARn5xdt15yVgY3Tvsb9Dbs0_8VXLEDCBpSlLQECQ3NFl0paSWXFkvC3vlT1PoiPUaRix25IHV2pQv2Wc9jwJIg3tc-QX6Arhr8LHQ&gsessionid=6sD51yxQikWG69kqz_3uLqtSI49547UX-xRfwRmR5g4uK2eVFYuNxw]"
   style="rich"
 %}
 
