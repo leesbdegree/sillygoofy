@@ -3,6 +3,7 @@ name: Lakshitha Diwakar
 image: images/diwakar-lakshitha.jpg
 role: undergrad
 group: member
+order: 6
 ---
 
 Lakshitha is a Neuroscience major on the Pre-medical track in the Honors College at UT San Antonio. 
