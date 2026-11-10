@@ -1,6 +1,6 @@
 ---
 name: Erick Lima
-image: images/lima-erick.jpg
+image: images/lima-erick.jpeg
 role: Undergraduate Student
 group: member
 ---
