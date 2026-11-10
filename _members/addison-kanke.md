@@ -3,7 +3,7 @@ name: Addison Kanke
 image: images/kanke-addison.jpg
 role: phd
 group: member
-order: 1
+order: 2
 ---
 
 Addison is a Neuroscience PhD student interested in understanding how excessive blue light exposure from 
