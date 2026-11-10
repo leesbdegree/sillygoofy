@@ -3,6 +3,7 @@ name: Erick Lima
 image: images/lima-erick.jpeg
 role: undergrad
 group: member
+order: 5
 ---
 
 Erick is an undergraduate student majoring in Mathematics of Data and Computing, 
