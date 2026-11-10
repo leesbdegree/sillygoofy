@@ -3,7 +3,7 @@ name: Amber Ng
 image: images/ng-amber.jpg
 role: lab
 group: member
-
+order: 1
 ---
 
 Amber has a keen interest in understanding how environmental and molecular factors influence retinal 
