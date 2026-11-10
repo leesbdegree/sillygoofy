@@ -1,7 +1,7 @@
 ---
 name: Addison Kanke
 image: images/kanke-addison.jpg
-role: PhD
+role: phd
 group: member
 
 ---
