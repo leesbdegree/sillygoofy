@@ -1,9 +1,9 @@
 ---
 title: Camacho Lab Takes First Place at COS's Halloween Spooktacular
 image: images/Ghostbusters.JPG
-author: Addison Kanke
+author: amber-ng
 date: 2026-10-31 12:00:00 -0500
-tags: events, lab life
+tags: events, lab-life
 ---
 
 The Camacho Lab proudly earned 1st Place in the 2026 College of Science's Halloween Spooktacular 
