@@ -42,21 +42,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Lee Robinson | Lab Website Template</title>
+<title>Kylene Robinson | Lab Website Template</title>
 
 <link rel="icon" href="/sillygoofy/images/icon.png">
 
-<meta name="title" content="Lee Robinson">
+<meta name="title" content="Kylene Robinson">
 <meta name="description" content="by the Greene Lab. An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
 
-<meta property="og:title" content="Lee Robinson">
+<meta property="og:title" content="Kylene Robinson">
 <meta property="og:site_title" content="Lab Website Template">
 <meta property="og:description" content="by the Greene Lab. An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
 <meta property="og:url" content="https://leesbdegree.github.io/sillygoofy">
 <meta property="og:image" content="/sillygoofy/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Lee Robinson">
+<meta property="twitter:title" content="Kylene Robinson">
 <meta property="twitter:description" content="by the Greene Lab. An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.">
 <meta property="twitter:url" content="https://leesbdegree.github.io/sillygoofy">
 <meta property="twitter:card" content="summary_large_image">
@@ -72,9 +72,9 @@
     
       "@type": "WebSite",
     
-    "name": "Lee Robinson",
+    "name": "Kylene Robinson",
     "description": "by the Greene Lab. An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.",
-    "headline": "Lee Robinson",
+    "headline": "Kylene Robinson",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/sillygoofy/images/icon.png" }
@@ -646,14 +646,14 @@
 >
   
 <div class="portrait-wrapper">
-  <a class="portrait" data-style="" aria-label="Lee Robinson">
+  <a class="portrait" data-style="" aria-label="Kylene Robinson">
     
 
     <img src="/sillygoofy/images/robinson-lee.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/sillygoofy/images/fallback.svg'; this.onerror = null;" />
 
     
       <span class="portrait-name">
-        Lee Robinson
+        Kylene Robinson
       </span>
     
 
@@ -684,8 +684,8 @@ lab, she loves botany and painting.
 
 
 <p class="center">
-  <a href="/sillygoofy/research/?search=%22Lee%20Robinson%22%20">
-    Search for Lee Robinson's papers on the Research page
+  <a href="/sillygoofy/research/?search=%22Kylene%20Robinson%22%20">
+    Search for Kylene Robinson's papers on the Research page
   </a>
 </p>
 
@@ -693,8 +693,8 @@ lab, she loves botany and painting.
 
 <!--
 <p class="center">
-  <a href="/sillygoofy/blog/?search=Lee%20Robinson">
-    See Lee Robinson's posts on the Blog page
+  <a href="/sillygoofy/blog/?search=Kylene%20Robinson">
+    See Kylene Robinson's posts on the Blog page
   </a>
 </p>
 -->
