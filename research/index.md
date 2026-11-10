@@ -4,20 +4,21 @@ nav:
   order: 1
   tooltip: Published works
 ---
+## Our Research
 
-My research includes using mathematical modeling to understand physiological processes, in particular mathematical ophthalmology. 
-Currently my work is expanding from dynamic mathematical and computational multi-scale models of cellular and molecular processes 
-to include experimental work that complements current retina degeneration research, in particular retinitis pigmentosa (RP) and 
-age-related macular degeneration (AMD). My work to-date includes mathematical models of key metabolic pathways in cones 
-(particularly aerobic glycolysis) and glutathione redox system, photoreceptors and RPE interactions, and treatments to slow 
-photoreceptor degeneration. My research investigates both the healthy and diseased retinas at the cellular and molecular levels and 
-disruptions in the photoreceptors' metabolic processes resulting from nutrient deprivation, increased oxidative stress, and oxygen
-imbalance. This research will help identify pathways and mechanisms within the photoreceptors and retinal pigmented epithelium (RPE)
-that can help prevent or slow down their degeneration, including those involved in metabolic adaptation, redox balance restoration, 
-and protective stress responses in diseased and aging retinas, and generating data to develop and complement dynamic mathematical 
-models. My mathematical models, calibrated with real-world data, provide new insights into methods that can reduce vision impairment.
+The Camacho Lab investigates the cellular and molecular mechanisms that drive retinal health, aging, and degeneration. Using an interdisciplinary approach that combines experimental biology, computational modeling, and systems-level analysis, we study how metabolic dysfunction, oxidative stress, and immune responses contribute to vision loss in retinal diseases such as retinitis pigmentosa (RP) and age-related macular degeneration (AMD).
 
-My research interests center on 1) the metabolic needs of cones in the absence of rods, before, during and after degeneration and retinal remodeling, 2) aerobic glycolysis and oxidative stress pathways in photoreceptors and the retinal pigment epithelium (RPE), 3) metabolic pathways implicated in photoreceptor degeneration, and 4) immune response in retinal degenerative diseases.
+Our research focuses on understanding the interactions between photoreceptors and the retinal pigment epithelium (RPE), with particular interest in energy metabolism, redox homeostasis, and protective stress-response pathways. By examining how these processes change during disease and aging, we aim to identify mechanisms that promote photoreceptor survival and reveal new therapeutic strategies to preserve vision.
+
+## Research Areas
+
+Retinal degeneration and neuroprotection
+Photoreceptor and RPE metabolism
+Oxidative stress and redox regulation
+Retinitis pigmentosa (RP) and age-related macular degeneration (AMD)
+Retinal remodeling and disease progression
+Immune responses in retinal disease
+Computational and systems biology approaches to vision research
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
