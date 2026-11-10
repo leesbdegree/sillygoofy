@@ -262,6 +262,501 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1523/ENEURO.0016-25.2025
+  title: Nucleus Accumbens Dopamine Encodes the Trace Period during Appetitive Pavlovian
+    Conditioning
+  authors:
+  - Matthew J. Wanat
+  - "Brandon I. Garcia-Casta\xF1eda"
+  - Cecilia Alducin-Martinez
+  - Leonor G. Cedillo
+  - Erika T. Camacho
+  - Paul E. M. Phillips
+  publisher: eneuro
+  date: '2025-05-01'
+  link: https://doi.org/g9rts4
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1101/2025.01.07.631806
+  title: Nucleus accumbens dopamine encodes the trace period during appetitive Pavlovian
+    conditioning
+  authors:
+  - Matthew J. Wanat
+  - "Brandon I. Garcia-Casta\xF1eda"
+  - Cecilia Alducin-Martinez
+  - Leonor G. Cedillo
+  - Erika T. Camacho
+  - Paul E.M. Phillips
+  publisher: openRxiv
+  date: '2025-01-07'
+  link: https://doi.org/hcr3jm
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1038/s41598-022-13950-3
+  title: A mathematical model of GLUT1 modulation in rods and RPE and its differential
+    impact in cell metabolism
+  authors:
+  - Andrea Aparicio
+  - Erika T. Camacho
+  - Nancy J. Philp
+  - Stephen A. Wirkus
+  publisher: Scientific Reports
+  date: '2022-06-23'
+  link: https://doi.org/gstfbk
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1042/BSR20212457
+  title: Insights into pathological mechanisms and interventions revealed by analyzing
+    a mathematical model for cone metabolism
+  authors:
+  - Atanaska Dobreva
+  - "Erika\_Tatiana Camacho"
+  - Kamila Larripa
+  - "Anca R\u01CEdulescu"
+  - "Deena\_R. Schmidt"
+  - Imelda Trejo
+  publisher: Bioscience Reports
+  date: '2022-03-01'
+  link: https://doi.org/hcr3jn
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: wosuid:WOS:000690761400414
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000690761400414
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1007/978-3-030-57129-0_7
+  title: 'Mathematical Modeling of Retinal Degeneration: Aerobic Glycolysis in a Single
+    Cone'
+  authors:
+  - Erika Tatiana Camacho
+  - Atanaska Dobreva
+  - Kamila Larripa
+  - "Anca Ra\u030Cdulescu"
+  - Deena Schmidt
+  - Imelda Trejo
+  publisher: Association for Women in Mathematics Series
+  date: '2020-12-30'
+  link: https://doi.org/hcr3jp
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1016/j.jtbi.2021.110642
+  title: The role of RdCVFL in a mathematical model of photoreceptor interactions
+  authors:
+  - Kathryn Wifvat
+  - Erika T. Camacho
+  - Stephen Wirkus
+  - "Thierry L\xE9veillard"
+  publisher: Journal of Theoretical Biology
+  date: '2021-07-01'
+  link: https://doi.org/hcr3jq
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1093/imammb/dqz003
+  title: Optimal control with MANF treatment of photoreceptor degeneration
+  authors:
+  - Erika T Camacho
+  - Suzanne Lenhart
+  - Luis A Melara
+  - M Cristina Villalobos
+  - Stephen Wirkus
+  publisher: 'Mathematical Medicine and Biology: A Journal of the IMA'
+  date: '2019-02-27'
+  link: https://doi.org/hcr3jr
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: wosuid:WOS:000488800707130
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000488800707130
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1038/s41598-019-39901-z
+  title: A Mathematical Analysis of Aerobic Glycolysis Triggered by Glucose Uptake
+    in Cones
+  authors:
+  - Erika T. Camacho
+  - Danielle Brager
+  - Ghizlane Elachouri
+  - Tatyana Korneyeva
+  - "G\xE9raldine Millet-Puel"
+  - "Jos\xE9-Alain Sahel"
+  - "Thierry L\xE9veillard"
+  publisher: Scientific Reports
+  date: '2019-03-11'
+  link: https://doi.org/ggdkvc
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1016/j.cnsns.2018.09.001
+  title: A qualitative analysis of ubiquitous regulatory motifs in Saccharomyces cerevisiae
+    genetic networks
+  authors:
+  - Erika T. Camacho
+  - Anca Radulescu
+  - Stephen Wirkus
+  - Pamela A. Marshall
+  publisher: Communications in Nonlinear Science and Numerical Simulation
+  date: '2019-04-01'
+  link: https://doi.org/hcr3js
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: wosuid:WOS:000488628101155
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000488628101155
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: wosuid:WOS:000488628101153
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000488628101153
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1016/j.jtbi.2019.110003
+  title: 'The Vicodin abuse problem: A mathematical approach'
+  authors:
+  - Wendy K. Caldwell
+  - Benjamin Freedman
+  - Luke Settles
+  - Michael M. Thomas
+  - Erika T. Camacho
+  - Stephen Wirkus
+  publisher: Journal of Theoretical Biology
+  date: '2019-12-01'
+  link: https://doi.org/hcr3jt
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1016/j.cnsns.2016.02.030
+  title: Bifurcation analysis of a photoreceptor interaction model for Retinitis Pigmentosa
+  authors:
+  - Erika T. Camacho
+  - Anca Radulescu
+  - Stephen Wirkus
+  publisher: Communications in Nonlinear Science and Numerical Simulation
+  date: '2016-09-01'
+  link: https://doi.org/hcr3jv
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1007/s11538-016-0185-x
+  title: Mathematical Model of the Role of RdCVF in the Coexistence of Rods and Cones
+    in a Healthy Eye
+  authors:
+  - Erika T. Camacho
+  - "Thierry L\xE9veillard"
+  - "Jos\xE9-Alain Sahel"
+  - Stephen Wirkus
+  publisher: Bulletin of Mathematical Biology
+  date: '2016-07-01'
+  link: https://doi.org/f83w95
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1016/j.jtbi.2016.08.001
+  title: Quantifying the metabolic contribution to photoreceptor death in retinitis
+    pigmentosa via a mathematical model
+  authors:
+  - Erika T. Camacho
+  - Claudio Punzo
+  - Stephen A. Wirkus
+  publisher: Journal of Theoretical Biology
+  date: '2016-11-01'
+  link: https://doi.org/f86csg
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- title: A Stochastic Model of the Melanopsin Phototransduction Cascade
+  publisher: Applications of Dynamical Systems in Biology and Medicine
+  date: '2023-04-28'
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1016/j.jtbi.2015.08.017
+  title: 'Mathematical modeling of fungal infection in immune compromised individuals:
+    The effect of back mutation on drug treatment'
+  authors:
+  - Stephen Wirkus
+  - Erika T. Camacho
+  - Pamela A. Marshall
+  publisher: Journal of Theoretical Biology
+  date: '2015-11-01'
+  link: https://doi.org/f7w886
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1007/s11538-015-0092-6
+  title: 'Parameter Estimation for Gene Regulatory Networks from Microarray Data:
+    Cold Shock Response in Saccharomyces cerevisiae'
+  authors:
+  - Kam D. Dahlquist
+  - Ben G. Fitzpatrick
+  - Erika T. Camacho
+  - Stephanie D. Entzminger
+  - Nathan C. Wanner
+  publisher: Bulletin of Mathematical Biology
+  date: '2015-08-01'
+  link: https://doi.org/f7xp59
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- title: 'Transforming the undergraduate research experience through sustained mentoring:
+    Creating a strong support network and a collaborative learning environment'
+  publisher: New Directions for Higher Education
+  date: '2023-04-28'
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1007/s11538-013-9919-1
+  title: Optimal Control in the Treatment of Retinitis Pigmentosa
+  authors:
+  - E. T. Camacho
+  - L. A. Melara
+  - M. C. Villalobos
+  - S. Wirkus
+  publisher: Bulletin of Mathematical Biology
+  date: '2013-11-21'
+  link: https://doi.org/f5s59k
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.3934/mbe.2013.10.1365
+  title: Metering effects in population systems
+  authors:
+  - Stephen Wirkus
+  - Christopher Kribs-Zaleta
+  - Erika T. Camacho
+  publisher: Mathematical Biosciences and Engineering
+  date: '2013-08-01'
+  link: https://doi.org/hcr3jw
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1016/j.cnsns.2013.04.006
+  title: The development and interaction of terrorist and fanatic groups
+  authors:
+  - Erika T. Camacho
+  publisher: Communications in Nonlinear Science and Numerical Simulation
+  date: '2013-11-01'
+  link: https://doi.org/hcr3jx
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.3934/mbe.2013.10.1351
+  title: The mathematical and theoretical biology institute - a model of mentorship
+    through research
+  authors:
+  - Stephen Wirkus
+  - Christopher Kribs-Zaleta
+  - Erika T. Camacho
+  publisher: Mathematical Biosciences and Engineering
+  date: '2013-08-01'
+  link: https://doi.org/hcr3jz
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1016/j.jtbi.2012.09.034
+  title: Tracing the progression of retinitis pigmentosa via photoreceptor interactions
+  authors:
+  - Erika T. Camacho
+  - Stephen Wirkus
+  publisher: Journal of Theoretical Biology
+  date: '2013-01-01'
+  link: https://doi.org/f4k2zz
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- title: Modeling Photoreceptor Interactions in the Presence of Retinitis Pigmentosa
+  publisher: Investigative Ophthalmology & Visual Science
+  date: '2023-04-28'
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1016/j.jtbi.2011.04.007
+  title: 'Mathematical modeling of fungal infection in immune compromised individuals:
+    Implications for drug treatment'
+  authors:
+  - Erika T. Camacho
+  - Stephen Wirkus
+  - Pamela A. Marshall
+  publisher: Journal of Theoretical Biology
+  date: '2011-07-01'
+  link: https://doi.org/dmwgw6
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1016/j.tcs.2009.10.001
+  title: On positive influence dominating sets in social networks
+  authors:
+  - Feng Wang
+  - Hongwei Du
+  - Erika Camacho
+  - Kuai Xu
+  - Wonjun Lee
+  - Yan Shi
+  - Shan Shan
+  publisher: Theoretical Computer Science
+  date: '2011-01-01'
+  link: https://doi.org/bwgt9b
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1016/j.jtbi.2010.09.006
+  title: A mathematical model for photoreceptor interactions
+  authors:
+  - Erika T. Camacho
+  - "Miguel A. Col\xF3n V\xE9lez"
+  - "Daniel J. Hern\xE1ndez"
+  - "Ubaldo Rodr\xEDguez Bernier"
+  - Jon Van Laarhoven
+  - Stephen Wirkus
+  publisher: Journal of Theoretical Biology
+  date: '2010-12-01'
+  link: https://doi.org/dvmtqg
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- title: Conceptualizing STEM workforce migration in the modern world polity
+  publisher: GMU School of Public Policy Research Paper
+  date: '2023-04-28'
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1016/j.jtbi.2010.07.027
+  title: Static behavioral effects on gonorrhea transmission dynamics in a MSM population
+  authors:
+  - Benjamin R. Morin
+  - Liana Medina-Rios
+  - Erika T. Camacho
+  - Carlos Castillo-Chavez
+  publisher: Journal of Theoretical Biology
+  date: '2010-11-01'
+  link: https://doi.org/fv59qn
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: wosuid:PPRN:13739879
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:13739879
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1007/978-3-642-02026-1_29
+  title: Positive Influence Dominating Set in Online Social Networks
+  authors:
+  - Feng Wang
+  - Erika Camacho
+  - Kuai Xu
+  publisher: Lecture Notes in Computer Science
+  date: '2009-01-01'
+  link: https://doi.org/ch2vz2
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.3934/mbe.2008.5.239
+  title: '"Traveling wave'''' solutions of Fitzhugh model with cross-diffusion'
+  authors: []
+  publisher: Mathematical Biosciences and Engineering
+  date: '2008-01-01'
+  link: https://doi.org/dck7b4
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- title: THE EFFECT OF ALCOHOL ON NEURON FIRING.
+  publisher: Mathematical Scientist
+  date: '2023-04-28'
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- id: doi:10.1016/j.ijsolstr.2003.11.035
+  title: Dynamics of two van der Pol oscillators coupled via a bath
+  authors:
+  - Erika Camacho
+  - Richard Rand
+  - Howard Howland
+  publisher: International Journal of Solids and Structures
+  date: '2004-04-01'
+  link: https://doi.org/bw3ss5
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- title: A Mathematical Model of a Retinal Oscillator
+  publisher: ASME International Mechanical Engineering Congress and Exposition
+  date: '2023-04-28'
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
+- title: Nonlinear Dynamics of the Bombardier Beetle
+  publisher: International Design Engineering Technical Conferences and Computers
+    and Information in Engineering Conference
+  date: '2023-04-28'
+  orcid: 0000-0003-4286-5224
+  erika-camacho: true
+  plugin: orcid.py
+  file: orcid2.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
