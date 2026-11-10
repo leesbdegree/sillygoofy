@@ -1,5 +1,5 @@
 ---
-title: Camacho Lab Blog
+title: Blog
 nav:
   order: 4
   tooltip: Musings and miscellany
@@ -7,7 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-For the Halloween Celebration this year
+The Camacho Lab Blog highlights the people, research, and achievements that drive our work in retinal 
+neuroscience and vision research. Follow along for updates on new findings, publications, student 
+accomplishments, outreach events, and life in the lab as we work to better understand the biology of 
+the retina and develop new approaches to preserving vision.
 
 {% include section.html %}
 
