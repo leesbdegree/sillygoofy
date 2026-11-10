@@ -1,9 +1,12 @@
-{% assign emptyarray = "" | split: "," %}
 {% assign data = site.data[include.data]
   | default: site[include.data]
   | default: emptyarray
   | data_filter: include.filter
 %}
+
+{% if include.sort %}
+  {% assign data = data | sort: include.sort %}
+{% endif %}
 
 {% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
