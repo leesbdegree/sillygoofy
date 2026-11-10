@@ -2,6 +2,7 @@
 title: Camacho Lab Takes First Place at COS's Halloween Spooktacular
 image: images/Ghostbusters.JPG
 author: Addison Kanke
+date: 2026-10-31 12:00:00 -0500
 tags: events, lab life
 ---
 
