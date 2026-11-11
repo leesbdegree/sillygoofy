@@ -6,9 +6,9 @@ principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
-postdoc:
+lab-manager:
   icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+  description: Lab Manager
 
 phd:
   icon: fa-solid fa-graduation-cap
