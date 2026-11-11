@@ -1,7 +1,7 @@
 ---
 name: Amber Ng
 image: images/ng-amber.jpg
-role: lab
+role: lab-manager
 group: member
 order: 1
 ---
