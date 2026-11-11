@@ -1,47 +1,42 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Glycolytic Regulation of Retinal Health and Degeneration
+  subtitle: Dr. Camacho's Project
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Dr. Camacho's research investigates how key glycolytic enzymes, particularly triosephosphate isomerase 
+  (TPI) and phosphofructokinase (PFK), regulate retinal metabolism and influence susceptibility to retinal degeneration. 
+  Her lab examines how disruptions in energy production affect photoreceptor survival, retinal function, and responses 
+  to environmental stressors.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
+- title: Retinal Metabolomics and Cellular Responses to Degeneration
+  subtitle: Victoria Lemus' Project
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Victoria's research examines metabolic changes that occur during retinal degeneration and recovery. 
+  Using metabolomic profiling and molecular analyses, she investigates how retinal cells alter energy utilization 
+  and biochemical pathways following injury or disease. Her work aims to identify metabolic signatures associated 
+  with retinal stress and uncover potential therapeutic targets for preserving vision.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - metabolomics
+    - degeneration
+    - retinitis pigmentosa
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Blue Light-Induced Retinal Degeneration
+  subtitle: Addison Kanke's Project
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Addison's research investigates how blue light exposure affects retinal health, with a particular 
+  focus on intrinsically photosensitive retinal ganglion cells (ipRGCs). These specialized retinal neurons are 
+  responsible for non-image-forming visual functions, including circadian rhythm regulation, pupillary light 
+  reflexes, and light-mediated behavioral responses. Her work examines the vulnerability and adaptive responses 
+  of ipRGCs to blue light-induced stress and explores how alterations in these cells contribute to retinal 
+  dysfunction and neurodegeneration.
   repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - blue light
+    - degeneration
+    - behavior
