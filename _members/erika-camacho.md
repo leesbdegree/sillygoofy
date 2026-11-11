@@ -2,7 +2,6 @@
 name: Dr. Erika Camacho
 image: images/camacho-erika.jpg
 role: principal-investigator
-affiliation: University of Texas at San Antonio
 links:
   home-page: https://en.wikipedia.org/wiki/Erika_Camacho
   curriculum vitae: https://sciences.utsa.edu/labs/erika-camacho/_documents/cv-camacho.pdf
