@@ -11,9 +11,6 @@ Meet the scientists, students, and staff driving discovery in the Camacho Lab.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
-
 {% include list.html data="members" component="portrait" filter="role == 'pi'" sort="order" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" sort="order" %}
 
