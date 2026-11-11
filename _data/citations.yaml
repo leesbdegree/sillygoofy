@@ -16,7 +16,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1101/2025.01.07.631806
   title: Nucleus accumbens dopamine encodes the trace period during appetitive Pavlovian
     conditioning
@@ -33,7 +33,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1038/s41598-022-13950-3
   title: A mathematical model of GLUT1 modulation in rods and RPE and its differential
     impact in cell metabolism
@@ -48,7 +48,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1042/BSR20212457
   title: Insights into pathological mechanisms and interventions revealed by analyzing
     a mathematical model for cone metabolism
@@ -65,7 +65,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: wosuid:WOS:000690761400414
   title: Web of Science
   authors: []
@@ -75,7 +75,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1007/978-3-030-57129-0_7
   title: 'Mathematical Modeling of Retinal Degeneration: Aerobic Glycolysis in a Single
     Cone'
@@ -92,7 +92,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1016/j.jtbi.2021.110642
   title: The role of RdCVFL in a mathematical model of photoreceptor interactions
   authors:
@@ -106,7 +106,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1093/imammb/dqz003
   title: Optimal control with MANF treatment of photoreceptor degeneration
   authors:
@@ -121,7 +121,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: wosuid:WOS:000488800707130
   title: Web of Science
   authors: []
@@ -131,7 +131,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1038/s41598-019-39901-z
   title: A Mathematical Analysis of Aerobic Glycolysis Triggered by Glucose Uptake
     in Cones
@@ -149,7 +149,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1016/j.cnsns.2018.09.001
   title: A qualitative analysis of ubiquitous regulatory motifs in Saccharomyces cerevisiae
     genetic networks
@@ -164,7 +164,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: wosuid:WOS:000488628101155
   title: Web of Science
   authors: []
@@ -174,7 +174,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: wosuid:WOS:000488628101153
   title: Web of Science
   authors: []
@@ -184,7 +184,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1016/j.jtbi.2019.110003
   title: 'The Vicodin abuse problem: A mathematical approach'
   authors:
@@ -200,7 +200,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1016/j.cnsns.2016.02.030
   title: Bifurcation analysis of a photoreceptor interaction model for Retinitis Pigmentosa
   authors:
@@ -213,7 +213,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1007/s11538-016-0185-x
   title: Mathematical Model of the Role of RdCVF in the Coexistence of Rods and Cones
     in a Healthy Eye
@@ -228,7 +228,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1016/j.jtbi.2016.08.001
   title: Quantifying the metabolic contribution to photoreceptor death in retinitis
     pigmentosa via a mathematical model
@@ -242,7 +242,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - title: A Stochastic Model of the Melanopsin Phototransduction Cascade
   publisher: Applications of Dynamical Systems in Biology and Medicine
   date: '2023-04-28'
@@ -263,7 +263,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1007/s11538-015-0092-6
   title: 'Parameter Estimation for Gene Regulatory Networks from Microarray Data:
     Cold Shock Response in Saccharomyces cerevisiae'
@@ -279,7 +279,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - title: 'Transforming the undergraduate research experience through sustained mentoring:
     Creating a strong support network and a collaborative learning environment'
   publisher: New Directions for Higher Education
@@ -301,7 +301,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.3934/mbe.2013.10.1365
   title: Metering effects in population systems
   authors:
@@ -314,7 +314,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1016/j.cnsns.2013.04.006
   title: The development and interaction of terrorist and fanatic groups
   authors:
@@ -325,7 +325,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.3934/mbe.2013.10.1351
   title: The mathematical and theoretical biology institute - a model of mentorship
     through research
@@ -339,7 +339,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1016/j.jtbi.2012.09.034
   title: Tracing the progression of retinitis pigmentosa via photoreceptor interactions
   authors:
@@ -351,7 +351,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - title: Modeling Photoreceptor Interactions in the Presence of Retinitis Pigmentosa
   publisher: Investigative Ophthalmology & Visual Science
   date: '2023-04-28'
@@ -372,7 +372,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1016/j.tcs.2009.10.001
   title: On positive influence dominating sets in social networks
   authors:
@@ -389,7 +389,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1016/j.jtbi.2010.09.006
   title: A mathematical model for photoreceptor interactions
   authors:
@@ -405,7 +405,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - title: Conceptualizing STEM workforce migration in the modern world polity
   publisher: GMU School of Public Policy Research Paper
   date: '2023-04-28'
@@ -426,7 +426,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: wosuid:PPRN:13739879
   title: Web of Science
   authors: []
@@ -436,7 +436,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.1007/978-3-642-02026-1_29
   title: Positive Influence Dominating Set in Online Social Networks
   authors:
@@ -449,7 +449,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - id: doi:10.3934/mbe.2008.5.239
   title: '"Traveling wave'''' solutions of Fitzhugh model with cross-diffusion'
   authors: []
@@ -459,7 +459,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - title: THE EFFECT OF ALCOHOL ON NEURON FIRING.
   publisher: Mathematical Scientist
   date: '2023-04-28'
@@ -479,7 +479,7 @@
   orcid: 0000-0003-4286-5224
   erika-camacho: true
   plugin: orcid.py
-  file: orcid2.yaml
+  file: orcid.yaml
 - title: A Mathematical Model of a Retinal Oscillator
   publisher: ASME International Mechanical Engineering Congress and Exposition
   date: '2023-04-28'
@@ -495,57 +495,6 @@
   erika-camacho: true
   plugin: orcid.py
   file: orcid.yaml
-- title: A Stochastic Model of the Melanopsin Phototransduction Cascade
-  publisher: Applications of Dynamical Systems in Biology and Medicine
-  date: '2023-04-28'
-  orcid: 0000-0003-4286-5224
-  erika-camacho: true
-  plugin: orcid.py
-  file: orcid2.yaml
-- title: 'Transforming the undergraduate research experience through sustained mentoring:
-    Creating a strong support network and a collaborative learning environment'
-  publisher: New Directions for Higher Education
-  date: '2023-04-28'
-  orcid: 0000-0003-4286-5224
-  erika-camacho: true
-  plugin: orcid.py
-  file: orcid2.yaml
-- title: Modeling Photoreceptor Interactions in the Presence of Retinitis Pigmentosa
-  publisher: Investigative Ophthalmology & Visual Science
-  date: '2023-04-28'
-  orcid: 0000-0003-4286-5224
-  erika-camacho: true
-  plugin: orcid.py
-  file: orcid2.yaml
-- title: Conceptualizing STEM workforce migration in the modern world polity
-  publisher: GMU School of Public Policy Research Paper
-  date: '2023-04-28'
-  orcid: 0000-0003-4286-5224
-  erika-camacho: true
-  plugin: orcid.py
-  file: orcid2.yaml
-- title: THE EFFECT OF ALCOHOL ON NEURON FIRING.
-  publisher: Mathematical Scientist
-  date: '2023-04-28'
-  orcid: 0000-0003-4286-5224
-  erika-camacho: true
-  plugin: orcid.py
-  file: orcid2.yaml
-- title: A Mathematical Model of a Retinal Oscillator
-  publisher: ASME International Mechanical Engineering Congress and Exposition
-  date: '2023-04-28'
-  orcid: 0000-0003-4286-5224
-  erika-camacho: true
-  plugin: orcid.py
-  file: orcid2.yaml
-- title: Nonlinear Dynamics of the Bombardier Beetle
-  publisher: International Design Engineering Technical Conferences and Computers
-    and Information in Engineering Conference
-  date: '2023-04-28'
-  orcid: 0000-0003-4286-5224
-  erika-camacho: true
-  plugin: orcid.py
-  file: orcid2.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
