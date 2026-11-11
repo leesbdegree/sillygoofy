@@ -19,7 +19,7 @@ Discover publications from the Camacho Lab advancing retinal research and vision
 
 ## Highlighted
 
-{% include citation.html title="A Mathematical Analysis of Aerobic Glycolysis Triggered by Glucose Uptake in Cones" authors='["Erika T. Camacho", "Danielle Brager", "Ghizlane Elachouri", "Tatyana Korneyeva", "Géraldine Millet-Puel", "José-Alain Sahel", "Thierry Léveillard"]' publisher="Nature" date="2019-03-19" link="https://doi.org/10.1038/s41598-019-39901-z" style="rich" %}
+{% include citation.html title="A Mathematical Analysis of Aerobic Glycolysis Triggered by Glucose Uptake in Cones" authors='Erika T. Camacho, Danielle Brager, Ghizlane Elachouri, Tatyana Korneyeva, Géraldine Millet-Puel, José-Alain Sahel, Thierry Léveillard' publisher="Nature" date="2019-03-19" link="https://doi.org/10.1038/s41598-019-39901-z" style="rich" %}
 
 ## All
 
