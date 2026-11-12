@@ -7,27 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Connect with our lab to learn more about our research, collaboration opportunities, training programs, and current projects. We welcome inquiries from prospective students, researchers, collaborators, and community partners interested in advancing vision science and retinal research.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="amber.ng@utsa.edu"
+  link="amber.ng@utsa.edu"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(210) 458-7873"
+  link="+1-210-458-7873"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/VQZPN8niagd67XtR6"
 %}
 
 {% include section.html %}
