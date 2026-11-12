@@ -7,10 +7,6 @@ tags: events, lab-life
 ---
 {% include figure.html image="images/Ghostbusters.JPG" caption="Ready to bust retinal mysteries and paranormal activity alike." %}
 
-...
-
-{% include figure.html image="images/ghostbusters2.jpeg" caption="Who ya gonna call? The Camacho Lab!" %}
-
 The Camacho Lab proudly earned 1st Place in the 2026 College of Science's Halloween Spooktacular 
 costume competition with our Ghostbusters group costume! This marks the third year the lab has 
 taken home the top prize, reflecting not only our enthusiasm for campus events but also the 
@@ -18,3 +14,5 @@ teamwork and camaraderie that define our research group. The competition highlig
 creativity and collaborative spirit of the College of Sciences community, and we were honored 
 to represent the Department of Neurosciences, Developmental and Regenerative Biology. 
 Special thanks to all lab members who contributed their time, energy, and ideas to make this year's entry a success!
+
+{% include figure.html image="images/ghostbusters2.jpeg" caption="Who ya gonna call? The Camacho Lab!" %}
