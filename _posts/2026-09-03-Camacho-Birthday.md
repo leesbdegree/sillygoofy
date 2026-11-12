@@ -14,6 +14,5 @@ vision science research. We are grateful for everything Dr. Camacho does
 for our team and the broader scientific community. On behalf of all lab 
 members, we wish her a wonderful birthday and a year filled with 
 happiness, success, and exciting new discoveries.
-
-{% include figure.html image="images/camacho-bday.jpeg" caption="Thank you for your leadership, encouragement, and dedication to science and training the next generation of researchers." %}
+Thank you for your leadership, encouragement, and dedication to science and training the next generation of researchers!
 
