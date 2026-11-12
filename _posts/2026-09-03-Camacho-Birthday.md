@@ -1,6 +1,8 @@
 ---
 title: Celebrating Dr. Camacho's Birthday!
+image: images/camacho-bday.jpeg
 author: amber-ng
+date: 2026-09-03 12:00:00 -0500
 tags:
   - events
   - lab-life
